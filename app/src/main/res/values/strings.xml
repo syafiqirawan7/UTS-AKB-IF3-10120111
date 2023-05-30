@@ -14,7 +14,7 @@
     <string name="page3">Page 3 of 3</string>
     <string name="memo">Aplikasi Catatan Harian</string>
     <string name="penjelasan">Klik tombol + untuk menambah catatan</string>
-    <string name="txt_add">Catatan</string>
+    <string name="txt_add">Catatan Harian</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_add_note">AddNoteActivity</string>
