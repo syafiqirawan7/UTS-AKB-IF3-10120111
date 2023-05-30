@@ -8,6 +8,10 @@
     <string name="nim">10120111</string>
     <string name="email">syafiqirawan7@gmail.com</string>
     <string name="txt_welcome">SELAMAT DATANG</string>
+    <string name="judul">Judul</string>
+    <string name="desc">Tulis Catatan</string>
+    <string name="btnSimpan">SIMPAN</string>
+    <string name="btnHapus">HAPUS</string>
     <string name="txt_intro">Ini merupakan Aplikasi Catatan Harian Anda</string>
     <string name="page1">Page 1 of 2</string>
     <string name="page2">Page 2 of 2</string>

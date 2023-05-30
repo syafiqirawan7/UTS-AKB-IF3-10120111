@@ -24,12 +24,12 @@
             android:fontFamily="@font/sedan"
             android:textStyle="bold"
             android:layout_gravity="center"
-            android:text="Catatan Harian"/>
+            android:text="@string/txt_add"/>
 
     </LinearLayout>
     <EditText
         android:id="@+id/title"
-        android:hint="Judul"
+        android:hint="@string/judul"
         android:layout_marginHorizontal="20dp"
         android:layout_below="@id/title_add_bar"
         android:layout_width="match_parent"
@@ -37,7 +37,7 @@
     <EditText
         android:layout_marginTop="10dp"
         android:id="@+id/txt_desc"
-        android:hint="Tulis Catatan"
+        android:hint="@string/desc"
         android:inputType="textMultiLine|textCapSentences"
         android:minHeight="200dp"
         android:gravity="top"
@@ -55,7 +55,7 @@
         android:layout_marginHorizontal="40dp"
         android:layout_marginTop="40dp"
         android:backgroundTint="#B2DFDB"
-        android:text="SIMPAN" />
+        android:text="@string/btnSimpan" />
 
     <Button
         android:id="@+id/buttonDelete"
@@ -67,6 +67,6 @@
         android:layout_marginHorizontal="40dp"
         android:layout_marginTop="10dp"
         android:backgroundTint="#FFCDD2"
-        android:text="HAPUS" />
+        android:text="@string/btnHapus" />
 
 </RelativeLayout>
